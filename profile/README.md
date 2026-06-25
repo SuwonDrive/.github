@@ -15,14 +15,17 @@
 
 ## Projects
 
-- Mission 1
-  - Autonomous Driving Algorithm
+- **Mission 1**
+  - 차량 주행 시뮬레이터 기반 차선 추종 자율주행 SW 구현
+  - 주행 트랙 내 미션 수행 및 주행 안정화 알고리즘 개발
 
-- Mission 2
-  - Autonomous Driving System Design
+- **Mission 2**
+  - SLAM 기반 자율주차 시스템 개발계획서 작성
+  - Localization, Path Planning, Vehicle Control 구조 설계
 
 ## Environment
 
 - Ubuntu 22.04
 - ROS2 Humble
 - Python / C++
+- Gazebo / RViz
