@@ -1,6 +1,6 @@
 # SuwonDrive
 
-2026 국민대학교 자율주행 경진대회 개발 기록
+2026 제9회 국민대학교 자율주행 경진대회 (AI-엣지 챌린지) 개발 기록
 
 ## Purpose
 
@@ -17,11 +17,11 @@
 
 - **Mission 1**
   - 차량 주행 시뮬레이터 기반 차선 추종 자율주행 SW 구현
-  - 주행 트랙 내 미션 수행 및 주행 안정화 알고리즘 개발
+  - 주행 트랙 미션 수행 및 주행 안정화 알고리즘 개발
 
 - **Mission 2**
   - SLAM 기반 자율주차 시스템 개발계획서 작성
-  - Localization, Path Planning, Vehicle Control 구조 설계
+  - Localization / Path Planning / Vehicle Control 구조 설계
 
 ## Environment
 
